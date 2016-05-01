@@ -4,8 +4,9 @@ Java SDK for the EyeTribe Dev Kit
 
 Introduction
 ----
-
 This is the Java library implementation for the EyeTribe Dev Kit. This reference implementation provides a simple Java interface for communicating with the EyeTribe Server through our open [TET API](http://dev.theeyetribe.com/api/). This should allow developers to get started quickly to focus their efforts on creating truly immersive and innovative apps using our eye tracking technology. 
+
+Note: this is project forked and moved due to change of github account. 
 
 This version is to be considered **_beta_**. Feedback and bug fix submissions are welcome.
 
