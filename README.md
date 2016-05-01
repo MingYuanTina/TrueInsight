@@ -6,7 +6,7 @@ Introduction
 ----
 This is the Java library implementation for the EyeTribe Dev Kit. This reference implementation provides a simple Java interface for communicating with the EyeTribe Server through our open [TET API](http://dev.theeyetribe.com/api/). This should allow developers to get started quickly to focus their efforts on creating truly immersive and innovative apps using our eye tracking technology. 
 
-Note: this is a copied project forked due to change of github account
+Note: This is a project contributed as a part of the team during wearhack 2015 in Toronto. Orginal project is forked and copied due to change of my account. 
 
 This version is to be considered **_beta_**. Feedback and bug fix submissions are welcome.
 Please visit our [developer website](http://dev.theeyetribe.com) for documentation and tutorials. Please use our [public forum](http://theeyetribe.com/forum) for questions and support.
